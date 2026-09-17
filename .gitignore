@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+config.local.json
+.joplin-state/
+*.tsbuildinfo
+research/core-feasibility/package/
+research/core-feasibility/*.tgz
+research/core-feasibility/*.sqlite*
+research/core-feasibility/*.log

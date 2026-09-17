@@ -1,0 +1,11 @@
+{
+  "serverUrl": "https://joplin.example.test",
+  "email": "you@example.test",
+  "password": "set-this-in-a-user-local-file",
+  "stateDir": "./.joplin-state",
+  "allowInsecureLocalhost": false,
+  "allowInsecureHttp": false,
+  "readOnly": true,
+  "allowedNotebookIds": null,
+  "requestTimeoutMs": 30000
+}

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "joplin-direct": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "C:/path/to/joplin-direct-mcp/dist/cli.js",
+        "--config",
+        "C:/path/to/joplin-direct-mcp-config.json"
+      ],
+      "cwd": "C:/path/to/joplin-direct-mcp"
+    }
+  }
+}
